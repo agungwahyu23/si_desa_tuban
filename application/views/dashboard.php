@@ -36,7 +36,7 @@
 						<div class="d-flex justify-content-between alert alert-success alert-dismissible fade show mt-5" role="alert">
 							<div class="col-lg-12 md-6 ">
 								<div class="align-items-center">
-									<p><strong>Pemberitahuan!</strong> Terdapat <strong>5</strong> Pesanan Terbaru Mohon Konfirmasi.</p>
+									<p><strong>Pemberitahuan!</strong> Terdapat <strong>5</strong> Pengajuan Pindah Penduduk Perlu Konfirmasi.</p>
 								</div>
 								<button type="button" class="close" data-dismiss="alert" aria-label="Close">
 									<span aria-hidden="true">&times;</span>
@@ -52,7 +52,7 @@
 								<div class="card-body">
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="mr-3">
-											<div class="text-white-75 small">Pesanan Masuk</div>
+											<div class="text-white-75 small">Jumlah Penduduk Total</div>
 											<div class="text-lg font-weight-bold">5</div>
 										</div>
 										<i class="feather-xl text-white-50" data-feather="activity"></i>
@@ -70,7 +70,7 @@
 								<div class="card-body">
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="mr-3">
-											<div class="text-white-75 small">Pesanan Dikemas</div>
+											<div class="text-white-75 small">Jumlah Penduduk Masuk</div>
 											<div class="text-lg font-weight-bold">5</div>
 										</div>
 										<i class="feather-xl text-white-50" data-feather="activity"></i>
@@ -87,7 +87,7 @@
 								<div class="card-body">
 									<div class="d-flex justify-content-between align-items-center">
 										<div class="mr-3">
-											<div class="text-white-75 small">Transaksi Selesai</div>
+											<div class="text-white-75 small">Jumlah Penduduk Keluar</div>
 											<div class="text-lg font-weight-bold">5</div>
 										</div>
 										<i class="feather-xl text-white-50" data-feather="activity"></i>

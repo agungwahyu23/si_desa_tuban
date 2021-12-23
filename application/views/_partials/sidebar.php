@@ -4,7 +4,7 @@
             <div class="nav accordion" id="accordionSidenav">
                 <div class="sidenav-menu-heading">Dashboard</div>
                 <a class="nav-link" href="<?php echo base_url('admin/Admin') ?>">
-                    <div class="nav-link-icon"><i data-feather="users"></i></div>
+                    <div class="nav-link-icon"><i data-feather="home"></i></div>
                     Dashboard
                 </a>
 
@@ -23,9 +23,34 @@
                 </div> -->
 
                 <div class="sidenav-menu-heading">Data Master</div>
-                <a class="nav-link" href="<?php echo base_url('admin/Admin') ?>">
-                    <div class="nav-link-icon"><i data-feather="users"></i></div>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="user"></i></div>
                     Data Admin
+                </a>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="users"></i></div>
+                    Data Penduduk
+                </a>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="file-text"></i></div>
+                    Data Kartu Keluarga
+                </a>
+                <div class="sidenav-menu-heading">Data Administrasi</div>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="user-plus"></i></div>
+                    Data Penduduk Masuk
+                </a>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="user-minus"></i></div>
+                    Data Penduduk Keluar
+                </a>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="file-plus"></i></div>
+                    Data Akta Kelahiran
+                </a>
+                <a class="nav-link" href="<?php echo base_url('Admin') ?>">
+                    <div class="nav-link-icon"><i data-feather="file-minus"></i></div>
+                    Data Kematian
                 </a>
             </div>
         </div>
